@@ -108,6 +108,27 @@
   margin-left: 0.5rem;
 }
 
+.opciones {
+  text-align: center;
+  height: 40px;
+  margin: 10px 10px;
+}
+
+.parrafo{
+  font-size: 1.25rem;
+}
+
+.opciones p {
+  color: white;
+  align-items: center;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.opciones_texto {
+  align-items: centar;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
