@@ -52,6 +52,7 @@ export default function Home() {
 					<a
 						href="https://archive.ics.uci.edu/ml/datasets/Facebook+metrics"
 						target="_blank"
+						rel="noreferrer"
 					>
 						aquí
 					</a>
@@ -68,6 +69,7 @@ export default function Home() {
 					Que se puede encontrar dando click{' '}
 					<a
 						target="_blank"
+						rel="noreferrer"
 						href="https://www.semanticscholar.org/paper/Predicting-social-media-performance-metrics-and-of-Moro-Rita/dec55692590820754b53c916e29bb2b42c0e5104"
 					>
 						aquí
