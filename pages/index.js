@@ -101,10 +101,11 @@ export default function Home() {
 					</li>
 					<li>
 						Al igual que Moro-Rita-Vala para su modelo, nuestros modelos RL y RF
-						también tienen pesos altos para las categorías 'Page Total Likes' y
-						'Type' (tipo de contenido), es decir, son las características más
-						importantes para los tres modelos, SVM, RL y RF, con esas variables
-						independientes y con ese dataset de entrenamiento.
+						también tienen pesos altos para las categorías &apos;Page Total
+						Likes&apos; y &apos;Type&apos; (tipo de contenido), es decir, son
+						las características más importantes para los tres modelos, SVM, RL y
+						RF, con esas variables independientes y con ese dataset de
+						entrenamiento.
 					</li>
 				</ul>
 				<a href={'../public/IEU PORTAFOLIO.pdf'} download>
